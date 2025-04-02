@@ -2,9 +2,6 @@ app = "whatsapp-proxy"
 
 primary_region = "ams"
 
-[build]
-  dockerfile = "Dockerfile"
-
 [[services]]
   internal_port = 80
   protocol = "tcp"
