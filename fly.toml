@@ -1,5 +1,7 @@
 app = "whatsapp-proxy"
 
+primary_region = "ams"
+
 [build]
   dockerfile = "Dockerfile"
 
